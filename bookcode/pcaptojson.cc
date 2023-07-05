@@ -13,6 +13,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include <ctime>
 #include <netinet/in.h>
 #include <netinet/ip.h>
 #include <net/if.h>
